@@ -1,10 +1,32 @@
-{
-  "apps": [{
-    "serverURL": "",
-    "appId": "",
-    "masterKey": "",
-    "appName": "",
-    "iconName": ""
-  }],
+{"apps": [
+    {
+      "serverURL": "https://api.parse.com/1",
+      "appId": "0uxyX3ixLJWMWUyhgctwaGqeOtVv33RKMyVCr1eG",
+      "masterKey": "rfQYXtcCuda39rO9J8tTymbkQwEmK2Z935Z2LgYr",
+      "javascriptKey": "GU8hR42YqK10hkXuVau2VbzMWfBlheeD1qCKfQht",
+      "restKey": "jqtiJkzsZXIl3PerdCfw0DNID6e81iWCMrJwJvxS",
+      "appName": "HIDEOUT CLUB DEV@Parse",
+      "production": false
+    },
+    {
+      "serverURL": "https://hideoutclub-dev.herokuapp.com/parse",
+      "appId": "0uxyX3ixLJWMWUyhgctwaGqeOtVv33RKMyVCr1eG",
+      "masterKey": "rfQYXtcCuda39rO9J8tTymbkQwEmK2Z935Z2LgYr",
+      "javascriptKey": "GU8hR42YqK10hkXuVau2VbzMWfBlheeD1qCKfQht",
+      "restKey": "jqtiJkzsZXIl3PerdCfw0DNID6e81iWCMrJwJvxS",
+      "appName": "HIDEOUT CLUB DEV@Heroku",
+      "production": false
+    },
+  ],
+  "users": [
+    {
+      "user":"hideoutclub",
+      "pass":"Taketsuru2014"
+    },
+    {
+      "user":"devuserforbarsearch",
+      "pass":"fromthebarrel"
+    }
+  ],
   "iconsFolder": "icons"
 }
